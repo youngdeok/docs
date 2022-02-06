@@ -24,10 +24,10 @@ nav:
 extra:
   alternate:
     - name: English
-      link: /en/
+      link: /docs/en/
       lang: en
     - name: Korean
-      link: /ko/
+      link: /docs/ko/
       lang: ko
 
 plugins:
