@@ -1,3 +1,31 @@
-site_name: Tech Docs
+# Theme
 theme:
-  name: 'material'
+  name: material
+  features:
+    - navigation.tabs
+
+# Project information
+site_name: Tech Docs
+site_url: https://youngdeok.github.io/docs
+site_author: Youngdeok Hwang
+
+# Repository
+repo_name: docs
+repo_url: https://github.com/youngdeok/docs
+
+# Navigation
+nav:
+  - Welcome:
+    - About the site: index.md
+  - How to write:
+    - Basic: how/write.md
+    - Advance: how/advance.md
+
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Korean
+      link: /ko/
+      lang: ko
