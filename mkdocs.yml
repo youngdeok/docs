@@ -29,3 +29,6 @@ extra:
     - name: Korean
       link: /ko/
       lang: ko
+
+plugins:
+  - git-revision-date
