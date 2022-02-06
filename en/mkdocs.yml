@@ -5,17 +5,18 @@ theme:
   features:
     - navigation.tabs
   palette:
-    primary: indigo
-    accent: indigo
-    toggle:
-      icon: material/toggle-switch
-      name: Switch to light mode
-  - scheme: slate
-    primary: blue
-    accent: blue
-    toggle:
-      icon: material/toggle-switch-off-outline
-      name: Switch to dark mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
 
 # Project information
 site_name: Tech Docs
