@@ -37,10 +37,10 @@ nav:
 extra:
   alternate:
     - name: English
-      link: /docs/en/
+      link: /en/
       lang: en
     - name: Korean
-      link: /docs/ko/
+      link: /ko/
       lang: ko
 
 plugins:
