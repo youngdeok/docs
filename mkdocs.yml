@@ -1,6 +1,7 @@
 # Theme
 theme:
   name: material
+  language: en
   features:
     - navigation.tabs
   palette:
